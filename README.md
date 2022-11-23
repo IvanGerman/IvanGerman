@@ -21,7 +21,6 @@
 
 ![nodejs-icon](https://user-images.githubusercontent.com/68238341/190972147-f244f467-2e2e-4264-abd4-529717abe941.png)
 ![mongodb-icon](https://user-images.githubusercontent.com/68238341/203600392-08d68568-cf5f-4df4-b2ee-64c09276fe08.png)
-![expressjs](https://user-images.githubusercontent.com/68238341/203601840-5c0dcbb4-13de-4a1c-a6e1-30fb76401626.png)
 
 
 
