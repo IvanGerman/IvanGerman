@@ -21,7 +21,8 @@
 
 ![nodejs-icon](https://user-images.githubusercontent.com/68238341/190972147-f244f467-2e2e-4264-abd4-529717abe941.png)
 ![mongodb-icon](https://user-images.githubusercontent.com/68238341/203600392-08d68568-cf5f-4df4-b2ee-64c09276fe08.png)
-![postgresql-icon-12](https://github.com/IvanGerman/IvanGerman/assets/68238341/0bb6ad3d-bcaf-40df-92e9-74eee68d70ef)
+<img src="https://github.com/IvanGerman/IvanGerman/assets/68238341/0bb6ad3d-bcaf-40df-92e9-74eee68d70ef" alt="" />
+
 
 
 https://www.youtube.com/watch?v=oWUVWU2oze8
