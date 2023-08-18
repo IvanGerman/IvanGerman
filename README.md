@@ -19,9 +19,10 @@
 <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="" align="left"/>
 <img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="" align="left"/>
 
-![nodejs-icon](https://user-images.githubusercontent.com/68238341/190972147-f244f467-2e2e-4264-abd4-529717abe941.png)
-![mongodb-icon](https://user-images.githubusercontent.com/68238341/203600392-08d68568-cf5f-4df4-b2ee-64c09276fe08.png)
 <img src="https://github.com/IvanGerman/IvanGerman/assets/68238341/0bb6ad3d-bcaf-40df-92e9-74eee68d70ef" alt="" align="left" width="90px"/>
+<img src="https://user-images.githubusercontent.com/68238341/190972147-f244f467-2e2e-4264-abd4-529717abe941.png" alt="" align="left" width="90px"/>
+<img src="https://user-images.githubusercontent.com/68238341/203600392-08d68568-cf5f-4df4-b2ee-64c09276fe08.png" alt="" align="left" width="90px"/>
+
 
 
 
