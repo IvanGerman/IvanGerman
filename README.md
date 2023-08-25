@@ -1,9 +1,8 @@
-<h1 align="center">Hi there 👋, I'm my name is Ivan</h1>
+<h1 align="center">Hi there 👋, my name is Ivan</h1>
 <h3 align="center">Frontend/Backend developing</h3>
 
 - 🌱 I’m currently learning **React/Redux**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
