@@ -24,12 +24,7 @@
 <img src="https://user-images.githubusercontent.com/68238341/190972147-f244f467-2e2e-4264-abd4-529717abe941.png" alt="" align="left" width="90px"/>
 <img src="https://user-images.githubusercontent.com/68238341/203600392-08d68568-cf5f-4df4-b2ee-64c09276fe08.png" alt="" align="left" width="90px"/>
 </div>
-
-
-<br/>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div>https://www.youtube.com/watch?v=oWUVWU2oze8</div>
+<div align="center">https://www.youtube.com/watch?v=oWUVWU2oze8</div>
 
 
 <!--
